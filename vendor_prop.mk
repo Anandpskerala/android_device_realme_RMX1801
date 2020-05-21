@@ -1,6 +1,6 @@
 # AD
 PRODUCT_PROPERTY_OVERRIDES +=  \
-    ro.vendor.display.ad=1 \
+    ro.vendor.display.ad=0 \
     ro.vendor.display.ad.sdr_calib_data=/vendor/etc/OPPO_OLED_AD_calib.cfg \
     ro.vendor.display.sensortype=2
 
