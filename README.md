@@ -1,18 +1,17 @@
 Device Tree for Realme 2 Pro
 ===========================================
 
-The Realme 2 Pro (codenamed _"RMX1801"_) is a mid-range smartphone from Realme.
-It was announced in September 2018
+The Realme 2 Pro (codenamed _"RMX1805"_) is a mid-range smartphone from Realme.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Octa-core (4x2.0 GHz Kryo 260 & 4x1.8 GHz Kryo 260)
-Chipset | Qualcomm SDM660 Snapdragon 660
+Chipset | Qualcomm SDM450 Octa Core
 GPU     | Adreno 512
 Memory  | 4GB/6GB/8GB RAM
-Shipped Android Version | 8.1
+Shipped Android Version | 8.1/9
 Storage | 64GB/128GB
 MicroSD | Up to 256GB
 Battery | Non-removable Li-Ion 3500 mAh battery
