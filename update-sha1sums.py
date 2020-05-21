@@ -2,6 +2,7 @@
 #
 # Copyright (C) 2016 The CyanogenMod Project
 # Copyright (C) 2017-2018 The LineageOS Project
+# Copyright (c) 2020 Anand PS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -19,7 +20,7 @@
 from hashlib import sha1
 import sys
 
-device='RMX1801'
+device='RMX1805'
 vendor='realme'
 
 lines = [ line for line in open('proprietary-files.txt', 'r') ]
