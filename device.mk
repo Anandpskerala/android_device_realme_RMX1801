@@ -67,7 +67,7 @@ PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
 # Asserts
-TARGET_OTA_ASSERT_DEVICE := RMX1801
+TARGET_OTA_ASSERT_DEVICE := RMX1805
 
 # Boot Animation
 TARGET_SCREEN_HEIGHT := 2340
@@ -307,7 +307,7 @@ PRODUCT_PACKAGES += \
 
 # Recovery
 PRODUCT_PACKAGES += \
-    librecovery_updater_RMX1801
+    librecovery_updater_RMX1805
 
 # Seccomp
 PRODUCT_COPY_FILES += \
